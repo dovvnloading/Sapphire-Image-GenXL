@@ -1,0 +1,16 @@
+# Core ML/AI Libraries
+torch
+diffusers
+transformers
+accelerate
+safetensors
+
+# GUI Framework
+PySide6
+
+# System & Utility Libraries
+numpy
+Pillow
+psutil
+gputil
+pyspellchecker
